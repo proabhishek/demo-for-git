@@ -1,0 +1,11 @@
+git status 
+         git init 
+         git add .
+         git commit -m "first commit"
+            git remote add origin link
+            git push  origin master
+
+git clone link 
+git pull           
+               git stash 
+               gitt stash pop
