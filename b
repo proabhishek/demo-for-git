@@ -1,4 +1,5 @@
 hello
 hi
 how are you doing?
-grest right?
+great right?
+correct na?
